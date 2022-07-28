@@ -7,5 +7,10 @@ public class ClassGit {
 System.out.println("GIT1");
 System.out.println("GIT2");
 	}
+	
+	public void m1()
+	{
+		System.out.println("chcek m1");
+	}
 
 }
