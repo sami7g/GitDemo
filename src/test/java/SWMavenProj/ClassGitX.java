@@ -11,4 +11,9 @@ System.out.println("GITX1");
 	{
 		System.out.println("check in m2");
 	}
+	
+	public void m3()
+	{
+		System.out.println("check in m3");
+	}
 }
